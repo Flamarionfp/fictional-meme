@@ -13,7 +13,7 @@ public class App {
         printList(list);
 
         handleBubbleSort(list);
-        // handleQuickSort(list);
+        handleQuickSort(list);
     }
 
     static List<Integer> createList(Integer quantity) {
